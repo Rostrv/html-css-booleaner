@@ -46,10 +46,39 @@ margin-bottom: 1px;
     padding-left: 1%;
 }
 
-#head{
-    background-color: #20A9E5;
-    
-
+table{
+    width: 100%;
+    border-spacing: 0px;
 }
 
+#head{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
 
+.azzurro{
+    background-color:#B1E5F2 ;
+}
+
+.prima{
+    width: 25%;
+}
+
+.seconda{
+    width: 25%;   
+}
+
+.terza{
+    width: 50%;
+}
+
+.imageContainer{
+    margin-bottom: 16px;
+}
+
+.imageContainer h3{
+    color: white;;
+    position: absolute;
+    margin-left: 10px;
+}
