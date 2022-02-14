@@ -1,0 +1,19 @@
+header{
+    background-color: rgba(78, 160, 255, 1);
+    background-image: url(./img/pattern.png);
+    background-size: 20%;
+    height: 100px;
+
+}
+
+#logo{
+    width: 15%;
+    margin-top: 25px;
+  }
+
+h1{
+    font-size: 2cm;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
