@@ -12,8 +12,44 @@ header{
   }
 
 h1{
-    font-size: 2cm;
+    font-size: 80px;
     margin-bottom: 0px;
     margin-top: 10px;
 }
+
+
+#tim1{
+    margin-left: auto;
+    margin-top: 250px;
+    width: auto;
+    height: 650px;
+
+}
+
+#tim2{
+margin-left: 20px;
+width: auto;
+height: 650px;
+}
+
+#foto1{
+margin-top: 1px;
+margin-bottom: 1px;
+}
+
+#foto2{
+    margin-top: 1px;
+    
+}
+
+#lista{
+    padding-left: 1%;
+}
+
+#head{
+    background-color: #20A9E5;
+    
+
+}
+
 
